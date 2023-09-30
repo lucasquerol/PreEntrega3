@@ -1,0 +1,7 @@
+.darkMode{
+    color:white;
+    background-color: black;
+}
+.darkMode .card {
+    color: black
+}
